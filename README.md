@@ -6,7 +6,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=vinodpatildev&label=Profile%20views&color=0e75b6&style=flat" alt="vinodpatildev" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=vinodpatildev" alt="vinodpatildev" /></a> </p>
+<p align="left"> <a href="https://github.com/vinodpatildev/vinodpatildev"><img src="https://github-profile-trophy.vercel.app/?username=vinodpatildev" alt="vinodpatildev" /></a> </p>
 
 <p align="left"> <a href="https://twitter.com/ivinodpatil2000" target="blank"><img src="https://img.shields.io/twitter/follow/ivinodpatil2000?logo=twitter&style=for-the-badge" alt="ivinodpatil2000" /></a> </p>
 
