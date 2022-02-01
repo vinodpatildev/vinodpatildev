@@ -1,4 +1,5 @@
-<!-- [![MasterHead](https://images.pexels.com/photos/531880/pexels-photo-531880.jpeg)](https://vinodpatildev.io) -->
+[![MasterHead](https://user-images.githubusercontent.com/61724808/151920746-862614e1-ea4b-4a9f-834d-0674e0b2a5a0.png)](https://github.com/vinodpatildev/vinodpatildev)
+
 <h1 align="center">Hi 👋, I'm Vinod</h1>
 <h3 align="center">A passionate programmer from India</h3>
 <!-- <img align="right" alt="Coding" width="400" src="https://i.pinimg.com/originals/19/5d/c4/195dc40a60cc61b20d06f86457fe611b.gif"> -->
@@ -44,10 +45,10 @@
 
 <h3 align="left">Support:</h3>
 <p><a href="https://www.buymeacoffee.com/vinodpatildev"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="vinodpatildev" /></a></p>
-<br><br>
+
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=vinodpatildev&show_icons=true&locale=en&layout=compact" alt="vinodpatildev" /></p>
-<br><br>
+
 <p><img align="center" src="https://github-readme-stats.vercel.app/api?username=vinodpatildev&show_icons=true&locale=en" alt="vinodpatildev" /></p>
-<br><br>
+
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=vinodpatildev&" alt="vinodpatildev" /></p>
-<br><br>
+
