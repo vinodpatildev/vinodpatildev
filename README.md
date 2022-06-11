@@ -10,7 +10,7 @@
 
 <p align="left"> <a href="https://twitter.com/ivinodpatil2000" target="blank"><img src="https://img.shields.io/twitter/follow/ivinodpatil2000?logo=twitter&style=for-the-badge" alt="ivinodpatil2000" /></a> </p>
 
-- 🌱 I’m currently learning **Java**
+- 🌱 I’m currently learning **Kotlin**
 
 - 👨‍💻 All of my projects are available at [https://github.com/vinodpatildev/vinodpatildev](https://github.com/vinodpatildev/vinodpatildev)
 
