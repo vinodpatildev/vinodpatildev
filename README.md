@@ -23,8 +23,8 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://dev.to/vinodpatildev" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="vinodpatildev" height="30" width="40" /></a>
-<a href="https://twitter.com/ivinodpatil2000" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="ivinodpatildev" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/vinodpatildev" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="ivinodpatil2000" height="30" width="40" /></a>
+<a href="https://twitter.com/vinodpatildev" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="vinodpatildev" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/vinodpatildev" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="vinodpatil" height="30" width="40" /></a>
 <a href="https://stackoverflow.com/users/vinodpatildev" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="vinodpatildev" height="30" width="40" /></a>
 <a href="https://kaggle.com/vinodpatildev" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="vinodpatildev" height="30" width="40" /></a>
 <a href="https://instagram.com/vinodpatildev" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="vinodpatildev" height="30" width="40" /></a>
