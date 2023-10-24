@@ -43,9 +43,9 @@
 </div>
 
 ## Stats
-<div style="display: flex; flex-direction: row; flex-wrap: wrap; gap: 8px;">
+<div align="center">
 <!--     <img src="https://github-readme-stats.vercel.app/api/top-langs?username=vinodpatildev&show_icons=true&theme=dark&locale=en&count_private=true&layout=donut" alt="vinodpatildev"/> -->
-    <img src="https://github-readme-stats.vercel.app/api?username=vinodpatildev&show_icons=true&theme=dark&locale=en&count_private=true" alt="vinodpatildev" />
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=vinodpatildev&theme=dark" alt="vinodpatildev" />
+    <img src="https://github-readme-stats.vercel.app/api?username=vinodpatildev&show_icons=true&theme=dark&locale=en&count_private=true&card_width=350" alt="vinodpatildev" />
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=vinodpatildev&theme=dark&card_width=390" alt="vinodpatildev" />
 </div>
 
