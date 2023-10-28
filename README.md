@@ -1,4 +1,4 @@
-[![MasterHead](https://user-images.githubusercontent.com/61724808/151920746-862614e1-ea4b-4a9f-834d-0674e0b2a5a0.png)](https://github.com/vinodpatildev/vinodpatildev)
+[![MasterHead](https://raw.githubusercontent.com/vinodpatildev/vinodpatildev/main/vinodpatildev.back.jpeg)](https://github.com/vinodpatildev/vinodpatildev)
 
 <h1 align="center">Vinod Patil</h1>
 <h3 align="center">Self-driven, quick starter, passionate programmer with a curious mind who enjoys solving complex and challenging real-world problems.</h3>
