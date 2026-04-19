@@ -5,32 +5,32 @@
 
 ## Connect with me:
 <div align="center">
-    <div>
-        <a href="https://twitter.com/vinodpatildev">
-            <img src="https://skillicons.dev/icons?i=twitter" alt="Twitter" height="45" />
-        </a>
-        <a href="https://linkedin.com/in/vinodpatildev">
-            <img src="https://skillicons.dev/icons?i=linkedin" alt="LinkedIn" height="45"/>
-        </a>
-        <a href="https://instagram.com/vinodpatildev">
-            <img src="https://skillicons.dev/icons?i=instagram" alt="Instagram" height="45"/>
-        </a>
-        <a href="https://www.leetcode.com/vinodpatildev">
-            <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="LeetCode" height="45"/>
-        </a>
-        <a href="https://auth.geeksforgeeks.org/user/vinodpatildev">
-            <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="GeeksForGeeks" height="45" width="55"/>
-        </a>
-        <a href="https://www.hackerrank.com/vinodpatildev">
-            <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="HackerRank" height="45"/>
-        </a>
-        <a href="https://www.codechef.com/users/vinodpatildev">
-            <img src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="CodeChef" height="45"/>
-        </a>
-        <a href="https://codeforces.com/profile/vinodpatildev">
-            <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="Codeforces" height="45"/>
-        </a>
-    </div>
+    <div style="display:flex; align-items:center; gap:10px; flex-wrap:nowrap; overflow-x:auto;">
+    <a href="https://twitter.com/vinodpatildev">
+        <img src="https://skillicons.dev/icons?i=twitter" alt="Twitter" height="45" />
+    </a>
+    <a href="https://linkedin.com/in/vinodpatildev">
+        <img src="https://skillicons.dev/icons?i=linkedin" alt="LinkedIn" height="45"/>
+    </a>
+    <a href="https://www.leetcode.com/vinodpatildev">
+        <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="LeetCode" height="45"/>
+    </a>
+    <a href="https://auth.geeksforgeeks.org/user/vinodpatildev">
+        <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="GeeksForGeeks" height="45" width="55"/>
+    </a>
+    <a href="https://www.hackerrank.com/vinodpatildev">
+        <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="HackerRank" height="45"/>
+    </a>
+    <a href="https://www.codechef.com/users/vinodpatildev">
+        <img src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="CodeChef" height="45"/>
+    </a>
+    <a href="https://codeforces.com/profile/vinodpatildev">
+        <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="Codeforces" height="45"/>
+    </a>
+    <a href="https://play.google.com/store/apps/dev?id=7970654564648715045" target="_blank">
+        <img src="https://www.svgrepo.com/show/303139/google-play-badge-logo.svg" alt="Play Store" height="45"/>
+    </a>
+</div>
 </div>
 
 ## Languages and Tools:
