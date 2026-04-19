@@ -1,7 +1,9 @@
-[![MasterHead](https://raw.githubusercontent.com/vinodpatildev/vinodpatildev/main/vinodpatildev.back.jpeg)](https://github.com/vinodpatildev/vinodpatildev)
+[![MasterHead]([https://raw.githubusercontent.com/vinodpatildev/vinodpatildev/main/vinodpatildev.back.jpeg](https://play-lh.googleusercontent.com/75ROpKDud071cLO9jFpF6HOre3W7o7tg_idFFl1hr828SwtTqOpRGUJhLzwNtvarVg=w7680-h4320-rw))](https://github.com/vinodpatildev/vinodpatildev)
 
 <h1 align="center">Vinod Patil</h1>
-<h3 align="center">Self-driven, quick starter, passionate programmer with a curious mind \nwho enjoys solving complex and challenging real-world problems.</h3>
+<h3 align="center">Self-driven, quick starter, passionate programmer with a curious mind </h3>
+<h3 align="center">who enjoys solving complex and challenging real-world problems.</h3>
+
 <h3 align="center">Currently working on <a href="https://www.pencer.in" target="_blank">www.pencer.in</a> </h3>
 
 ## Connect with me:
